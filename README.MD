@@ -1,7 +1,7 @@
 Alejandro Aguilar Zabala  Legajo: 173.263-8
 
 
-https://github.com/pdep-lunes/tp-0-presentacion-AlejandroA-Z/issues/1#issue-4394908091
+![Image alt](https://github.com/pdep-lunes/tp-0-presentacion-AlejandroA-Z/issues/1#issue-4394908091)
 
 
 Sobre mi
